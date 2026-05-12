@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment files
+.env
+
+# IDE / Editor
+.vscode/
+*.swp
+*.swo
+
+# Test output
+.pytest_cache/
+
+# Database / local files
+*.db
+
+# MacOS
+.DS_Store
